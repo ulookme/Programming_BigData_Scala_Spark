@@ -1,0 +1,45 @@
+2024.02.07 04:47:38 INFO  Started: Metals version 1.2.0 in folders '/Users/chajjar/Downloads/scala-project' for client Visual Studio Code 1.84.2.
+2024.02.07 04:47:39 WARN  Build server is not auto-connectable.
+2024.02.07 04:47:39 WARN  no build target for: /Users/chajjar/Downloads/scala-project/build.sbt
+2024.02.07 04:47:43 INFO  no build target found for /Users/chajjar/Downloads/scala-project/build.sbt. Using presentation compiler with project's scala-library version: 3.3.1
+2024.02.07 04:47:45 INFO  time: code lens generation in 5.37s
+2024.02.07 04:47:45 WARN  Could not find semantic tokens for: file:///Users/chajjar/Downloads/scala-project/build.sbt
+2024.02.07 04:47:46 WARN  Could not find semantic tokens for: file:///Users/chajjar/Downloads/scala-project/build.sbt
+2024.02.07 04:47:49 INFO  running '/Users/chajjar/.jabba/jdk/adopt@1.11.0-11/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/fl/m57kyn2x5wn1prwy1lqx78qc0000gn/T/metals8418849625915629507/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2024.02.07 04:47:49 WARN  no build target for: /Users/chajjar/Downloads/scala-project/project/metals.sbt
+2024.02.07 04:47:49 WARN  no build target for: /Users/chajjar/Downloads/scala-project/project/project/metals.sbt
+2024.02.07 04:47:49 ERROR [info] [launcher] getting org.scala-sbt sbt 1.9.0  (this may take some time)...
+2024.02.07 04:47:49 INFO  skipping build import with status 'Started'
+2024.02.07 04:47:49 WARN  Could not find semantic tokens for: file:///Users/chajjar/Downloads/scala-project/build.sbt
+2024.02.07 04:48:28 ERROR [info] [launcher] getting Scala 2.12.18 (for sbt)...
+2024.02.07 04:48:29 INFO  [info] welcome to sbt 1.9.0 (AdoptOpenJDK Java 11.0.11)
+2024.02.07 04:48:31 INFO  [info] loading settings for project scala-project-build-build from metals.sbt ...
+2024.02.07 04:48:31 INFO  [info] loading project definition from /Users/chajjar/Downloads/scala-project/project/project
+2024.02.07 04:48:35 INFO  [info] loading settings for project scala-project-build from metals.sbt ...
+2024.02.07 04:48:35 INFO  [info] loading project definition from /Users/chajjar/Downloads/scala-project/project
+2024.02.07 04:48:44 INFO  [success] Generated .bloop/scala-project-build.json
+2024.02.07 04:48:44 INFO  [success] Total time: 9 s, completed 7 févr. 2024 à 04:48:44
+2024.02.07 04:48:44 INFO  [info] loading settings for project scala-project from build.sbt ...
+2024.02.07 04:48:44 INFO  [info] set current project to scala-project (in build file:/Users/chajjar/Downloads/scala-project/)
+2024.02.07 04:49:13 INFO  [success] Generated .bloop/scala-project.json
+2024.02.07 04:49:13 INFO  [success] Generated .bloop/scala-project-test.json
+2024.02.07 04:49:13 INFO  [success] Total time: 28 s, completed 7 févr. 2024 à 04:49:13
+2024.02.07 04:49:13 INFO  time: ran 'sbt bloopInstall' in 1m24s
+2024.02.07 04:49:13 INFO  Attempting to connect to the build server...
+2024.02.07 04:49:13 INFO  Setting up current java home /Users/chajjar/.jabba/jdk/adopt@1.11.0-11/Contents/Home in /Users/chajjar/.bloop/bloop.json
+2024.02.07 04:49:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chajjar/Downloads/scala-project/.metals/bsp.trace.json or /Users/chajjar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.02.07 04:49:48 INFO  Attempting to connect to the build server...
+2024.02.07 04:49:48 INFO  Bloop uses /Users/chajjar/.jabba/jdk/adopt@1.11.0-11/Contents/Home defined at /Users/chajjar/.bloop/bloop.json
+2024.02.07 04:49:48 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/chajjar/Downloads/scala-project/project/.metals/bsp.trace.json or /Users/chajjar/Library/Caches/org.scalameta.metals/bsp.trace.json
+2024.02.07 04:50:00 INFO  time: Connected to build server in 47s
+2024.02.07 04:50:00 INFO  Connected to Build server: Bloop v1.5.13
+2024.02.07 04:50:19 INFO  time: indexed workspace in 19s
+2024.02.07 04:50:24 INFO  time: code lens generation in 3.78s
+2024.02.07 05:00:41 INFO  time: evaluated worksheet 'example.worksheet.sc' in 4.19s
+2024.02.07 05:12:09 WARN  Could not find semantic tokens for: file:///Users/chajjar/Downloads/scala-project/src/main/scala/Main.scala
+2024.02.07 05:12:10 INFO  compiling scala-project (1 scala source)
+2024.02.07 05:12:12 INFO  time: compiled scala-project in 2.74s
+2024.02.07 05:12:12 WARN  Could not find semantic tokens for: file:///Users/chajjar/Downloads/scala-project/src/main/scala/Main.scala
+2024.02.07 05:12:18 WARN  Could not find semantic tokens for: file:///Users/chajjar/Downloads/scala-project/src/main/scala/Main.scala
+2024.02.07 05:12:19 INFO  compiling scala-project (1 scala source)
+2024.02.07 05:12:21 INFO  time: compiled scala-project in 1.61s
